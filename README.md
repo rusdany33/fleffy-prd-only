@@ -1,5 +1,5 @@
 > **Eksperimen A — PRD Only** · Repositori ini berisi aplikasi yang dibangun AI coding agent **hanya** dari PRD di bawah.
-> Aplikasi: [`apps/web`](apps/web) · Demo: https://rusdany33.github.io/fleffy-prd-only/ · Riwayat perubahan: [CHANGELOG.md](CHANGELOG.md)
+> Aplikasi: [`apps/web`](apps/web) · Demo: https://rusdany33.github.io/fleffy-prd-only/ · Riwayat perubahan: [CHANGELOG.md](CHANGELOG.md) · Perbandingan A vs B: [EVALUASI.md](EVALUASI.md)
 >
 > Menjalankan lokal: `cd apps/web && npm install && npm run dev` · Test: `npm test`
 
